@@ -1,0 +1,6 @@
+git clone https://github.com/manin123the-developer/Devops.git
+cd Devops
+echo "This is a new file for the DevOps repository" > newfile.txt
+git add .
+git commit -m "Add newfile.txt to the DevOps repository"
+git push origin main
